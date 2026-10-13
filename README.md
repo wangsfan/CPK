@@ -1,4 +1,13 @@
-
+The implementation of the paper *Weakly-supervised incremental learning for semantic segmentation via class proximal knowledge transfer. Displays, 95, 2026, 103627:1-14. Authors: Ning Zhu, Huilin Shi, Jingyi Wang, Shaofan Wang, Yanfeng Sun*. Cite this paper if you use the code
+```
+@article{ZHU2026weakly,
+title = {Weakly-supervised incremental learning for semantic segmentation via class proximal knowledge transfer},
+journal = {Displays},
+volume = {95},
+pages = {103627:1-14},
+year = {2026},
+author = {Ning Zhu and Huilin Shi and Jingyi Wang and Shaofan Wang and Yanfeng Sun},}
+```
 ## How to run
 ### Requirements
 We have simple requirements:
